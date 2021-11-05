@@ -8,9 +8,13 @@
 
 ##进入虚拟环境安装包
     cd venv
+
     cd Scripts
+
     activate
+
     pip install -r requirements.txt
+
 
 
 
